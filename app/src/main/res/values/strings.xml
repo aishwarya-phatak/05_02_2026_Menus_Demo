@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">05_02_2026_Menus_Demo</string>
+    <string name="save">save</string>
+    <string name="save_as">save_as</string>
+    <string name="copy">copy</string>
+    <string name="download_image">download_image</string>
+    <string name="save_image_as">save_image_as</string>
+    <string name="test_image">test_image</string>
 </resources>
